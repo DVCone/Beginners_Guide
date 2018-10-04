@@ -22,3 +22,6 @@ Please add link of best resources to learn and contributing repositories here fo
 
 ### Data Science
 Please add link of best resources to learn and contributing repositories here for Data Science.
+
+### Artificial Inteligence
+Please add link of best resources to learn and contributing repositories here for Artificial Inteligence.
